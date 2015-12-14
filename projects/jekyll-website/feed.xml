@@ -6,9 +6,27 @@
 </description>
     <link>http://gustavodohara.github.io//projects/jekyll-website/</link>
     <atom:link href="http://gustavodohara.github.io//projects/jekyll-website/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Dec 2015 10:03:55 -0300</pubDate>
-    <lastBuildDate>Mon, 14 Dec 2015 10:03:55 -0300</lastBuildDate>
+    <pubDate>Mon, 14 Dec 2015 10:27:19 -0300</pubDate>
+    <lastBuildDate>Mon, 14 Dec 2015 10:27:19 -0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>My First Post</title>
+        <description>&lt;p&gt;This is my first post. I hope it be of your pleasure.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus est mollitia quod unde adipisci ad cum eos vitae odio consequatur itaque, perspiciatis nisi sapiente possimus. Iste accusantium, doloribus assumenda aliquid.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque molestias fugiat fugit voluptatem! Quis quibusdam quisquam voluptate optio facilis ratione itaque corporis natus, ipsa eligendi, ab reprehenderit numquam nihil.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 14 Dec 2015 10:02:00 -0300</pubDate>
+        <link>http://gustavodohara.github.io//projects/jekyll-website/greeting/2015/12/14/my-first-post.html</link>
+        <guid isPermaLink="true">http://gustavodohara.github.io//projects/jekyll-website/greeting/2015/12/14/my-first-post.html</guid>
+        
+        
+        <category>greeting</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
